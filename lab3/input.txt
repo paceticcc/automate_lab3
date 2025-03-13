@@ -1,0 +1,5 @@
+<Hello> -> <lol> h | <ek> s | <23> k
+    <lol> -> ε | <lol> x
+    <23> -> <madness> ε
+    <madness> -> 2 |  <23> k
+    <ek> -> x
